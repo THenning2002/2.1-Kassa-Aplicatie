@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="p1" Class="DatabaseDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-91SUMLQ\SQLEXPRESS01;Initial Catalog=p1;Integrated Security=True" SettingsObjectName="Clean_UI.Properties.Settings" SettingsPropertyName="p1ConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.customer" Member="customers">
+    <Type Name="customer">
+      <Column Name="customerID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="firstname" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="lastname" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="city" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="phonenumber" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="email" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Association Name="customer_order" Member="orders" ThisKey="customerID" OtherKey="costumerID" Type="order" />
+    </Type>
+  </Table>
+  <Table Name="dbo.itemperorder" Member="itemperorders">
+    <Type Name="itemperorder">
+      <Column Name="ItemperOrderID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="amount" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="orderID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="productID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="order_itemperorder" Member="order" ThisKey="orderID" OtherKey="orderID" Type="order" IsForeignKey="true" />
+      <Association Name="product_itemperorder" Member="product" ThisKey="productID" OtherKey="productID" Type="product" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.orders" Member="orders">
+    <Type Name="order">
+      <Column Name="orderID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="date" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="costumerID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsDbGenerated="true" CanBeNull="false" />
+      <Association Name="order_itemperorder" Member="itemperorders" ThisKey="orderID" OtherKey="orderID" Type="itemperorder" />
+      <Association Name="customer_order" Member="customer" ThisKey="costumerID" OtherKey="customerID" Type="customer" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.product" Member="products">
+    <Type Name="product">
+      <Column Name="productID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="productName" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="producttypeID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="prijs" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Association Name="product_itemperorder" Member="itemperorders" ThisKey="productID" OtherKey="productID" Type="itemperorder" />
+      <Association Name="producttype_product" Member="producttype" ThisKey="producttypeID" OtherKey="producttypeID" Type="producttype" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.producttypes" Member="producttypes">
+    <Type Name="producttype">
+      <Column Name="producttypeID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="producttypeomschrijving" Type="System.String" DbType="Text" CanBeNull="true" UpdateCheck="Never" />
+      <Association Name="producttype_product" Member="products" ThisKey="producttypeID" OtherKey="producttypeID" Type="product" />
+    </Type>
+  </Table>
+</Database>

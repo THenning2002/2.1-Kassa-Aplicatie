@@ -1,0 +1,76 @@
+C:\Users\tomhe\source\repos\Clean UI\Clean UI\bin\Debug\Clean UI.exe.config
+C:\Users\tomhe\source\repos\Clean UI\Clean UI\bin\Debug\Clean UI.exe
+C:\Users\tomhe\source\repos\Clean UI\Clean UI\bin\Debug\Clean UI.pdb
+C:\Users\tomhe\source\repos\Clean UI\Clean UI\obj\Debug\Clean UI.csproj.AssemblyReference.cache
+C:\Users\tomhe\source\repos\Clean UI\Clean UI\obj\Debug\Clean UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\tomhe\source\repos\Clean UI\Clean UI\obj\Debug\Theme\MenuButtonTheme.baml
+C:\Users\tomhe\source\repos\Clean UI\Clean UI\obj\Debug\MainWindow.g.cs
+C:\Users\tomhe\source\repos\Clean UI\Clean UI\obj\Debug\App.g.cs
+C:\Users\tomhe\source\repos\Clean UI\Clean UI\obj\Debug\Clean UI_MarkupCompile.cache
+C:\Users\tomhe\source\repos\Clean UI\Clean UI\obj\Debug\Clean UI_MarkupCompile.lref
+C:\Users\tomhe\source\repos\Clean UI\Clean UI\obj\Debug\App.baml
+C:\Users\tomhe\source\repos\Clean UI\Clean UI\obj\Debug\MainWindow.baml
+C:\Users\tomhe\source\repos\Clean UI\Clean UI\obj\Debug\Clean UI.g.resources
+C:\Users\tomhe\source\repos\Clean UI\Clean UI\obj\Debug\Clean_UI.Properties.Resources.resources
+C:\Users\tomhe\source\repos\Clean UI\Clean UI\obj\Debug\Clean UI.csproj.GenerateResource.cache
+C:\Users\tomhe\source\repos\Clean UI\Clean UI\obj\Debug\Clean UI.csproj.CoreCompileInputs.cache
+C:\Users\tomhe\source\repos\Clean UI\Clean UI\obj\Debug\Clean UI.exe
+C:\Users\tomhe\source\repos\Clean UI\Clean UI\obj\Debug\Clean UI.pdb
+C:\Users\tomhe\source\repos\Clean UI\Clean UI\obj\Debug\Theme\TextboxTheme.baml
+C:\Users\tomhe\source\repos\Clean UI\Clean UI\obj\Debug\MVVM\View\HomeView.g.cs
+C:\Users\tomhe\source\repos\Clean UI\Clean UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\tomhe\source\repos\Clean UI\Clean UI\obj\Debug\MVVM\View\HomeView.baml
+C:\Users\tomhe\source\repos\Clean UI\Clean UI\obj\Debug\MVVM\View\DiscoveryView.g.cs
+C:\Users\tomhe\source\repos\Clean UI\Clean UI\obj\Debug\MVVM\View\DiscoveryView.baml
+C:\Users\tomhe\Desktop\Eigen projecten\C#\Clean_UI\Clean UI\Clean UI\bin\Debug\Clean UI.exe.config
+C:\Users\tomhe\Desktop\Eigen projecten\C#\Clean_UI\Clean UI\Clean UI\bin\Debug\Clean UI.exe
+C:\Users\tomhe\Desktop\Eigen projecten\C#\Clean_UI\Clean UI\Clean UI\bin\Debug\Clean UI.pdb
+C:\Users\tomhe\Desktop\Eigen projecten\C#\Clean_UI\Clean UI\Clean UI\obj\Debug\Clean UI.csproj.AssemblyReference.cache
+C:\Users\tomhe\Desktop\Eigen projecten\C#\Clean_UI\Clean UI\Clean UI\obj\Debug\Clean UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\tomhe\Desktop\Eigen projecten\C#\Clean_UI\Clean UI\Clean UI\obj\Debug\Theme\MenuButtonTheme.baml
+C:\Users\tomhe\Desktop\Eigen projecten\C#\Clean_UI\Clean UI\Clean UI\obj\Debug\Theme\TextboxTheme.baml
+C:\Users\tomhe\Desktop\Eigen projecten\C#\Clean_UI\Clean UI\Clean UI\obj\Debug\MainWindow.g.cs
+C:\Users\tomhe\Desktop\Eigen projecten\C#\Clean_UI\Clean UI\Clean UI\obj\Debug\MVVM\View\DiscoveryView.g.cs
+C:\Users\tomhe\Desktop\Eigen projecten\C#\Clean_UI\Clean UI\Clean UI\obj\Debug\MVVM\View\HomeView.g.cs
+C:\Users\tomhe\Desktop\Eigen projecten\C#\Clean_UI\Clean UI\Clean UI\obj\Debug\App.g.cs
+C:\Users\tomhe\Desktop\Eigen projecten\C#\Clean_UI\Clean UI\Clean UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\tomhe\Desktop\Eigen projecten\C#\Clean_UI\Clean UI\Clean UI\obj\Debug\Clean UI_MarkupCompile.cache
+C:\Users\tomhe\Desktop\Eigen projecten\C#\Clean_UI\Clean UI\Clean UI\obj\Debug\Clean UI_MarkupCompile.lref
+C:\Users\tomhe\Desktop\Eigen projecten\C#\Clean_UI\Clean UI\Clean UI\obj\Debug\App.baml
+C:\Users\tomhe\Desktop\Eigen projecten\C#\Clean_UI\Clean UI\Clean UI\obj\Debug\MainWindow.baml
+C:\Users\tomhe\Desktop\Eigen projecten\C#\Clean_UI\Clean UI\Clean UI\obj\Debug\MVVM\View\DiscoveryView.baml
+C:\Users\tomhe\Desktop\Eigen projecten\C#\Clean_UI\Clean UI\Clean UI\obj\Debug\MVVM\View\HomeView.baml
+C:\Users\tomhe\Desktop\Eigen projecten\C#\Clean_UI\Clean UI\Clean UI\obj\Debug\Clean UI.g.resources
+C:\Users\tomhe\Desktop\Eigen projecten\C#\Clean_UI\Clean UI\Clean UI\obj\Debug\Clean_UI.Properties.Resources.resources
+C:\Users\tomhe\Desktop\Eigen projecten\C#\Clean_UI\Clean UI\Clean UI\obj\Debug\Clean UI.csproj.GenerateResource.cache
+C:\Users\tomhe\Desktop\Eigen projecten\C#\Clean_UI\Clean UI\Clean UI\obj\Debug\Clean UI.csproj.CoreCompileInputs.cache
+C:\Users\tomhe\Desktop\Eigen projecten\C#\Clean_UI\Clean UI\Clean UI\obj\Debug\Clean UI.exe
+C:\Users\tomhe\Desktop\Eigen projecten\C#\Clean_UI\Clean UI\Clean UI\obj\Debug\Clean UI.pdb
+C:\Users\tomhe\Desktop\Eigen projecten\C#\Clean UI\Clean UI\bin\Debug\Clean UI.exe.config
+C:\Users\tomhe\Desktop\Eigen projecten\C#\Clean UI\Clean UI\bin\Debug\Clean UI.exe
+C:\Users\tomhe\Desktop\Eigen projecten\C#\Clean UI\Clean UI\bin\Debug\Clean UI.pdb
+C:\Users\tomhe\Desktop\Eigen projecten\C#\Clean UI\Clean UI\obj\Debug\Clean UI.csproj.AssemblyReference.cache
+C:\Users\tomhe\Desktop\Eigen projecten\C#\Clean UI\Clean UI\obj\Debug\Clean UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\tomhe\Desktop\Eigen projecten\C#\Clean UI\Clean UI\obj\Debug\Theme\MenuButtonTheme.baml
+C:\Users\tomhe\Desktop\Eigen projecten\C#\Clean UI\Clean UI\obj\Debug\Theme\TextboxTheme.baml
+C:\Users\tomhe\Desktop\Eigen projecten\C#\Clean UI\Clean UI\obj\Debug\MainWindow.g.cs
+C:\Users\tomhe\Desktop\Eigen projecten\C#\Clean UI\Clean UI\obj\Debug\MVVM\View\DiscoveryView.g.cs
+C:\Users\tomhe\Desktop\Eigen projecten\C#\Clean UI\Clean UI\obj\Debug\MVVM\View\HomeView.g.cs
+C:\Users\tomhe\Desktop\Eigen projecten\C#\Clean UI\Clean UI\obj\Debug\App.g.cs
+C:\Users\tomhe\Desktop\Eigen projecten\C#\Clean UI\Clean UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\tomhe\Desktop\Eigen projecten\C#\Clean UI\Clean UI\obj\Debug\Clean UI_MarkupCompile.cache
+C:\Users\tomhe\Desktop\Eigen projecten\C#\Clean UI\Clean UI\obj\Debug\Clean UI_MarkupCompile.lref
+C:\Users\tomhe\Desktop\Eigen projecten\C#\Clean UI\Clean UI\obj\Debug\App.baml
+C:\Users\tomhe\Desktop\Eigen projecten\C#\Clean UI\Clean UI\obj\Debug\MainWindow.baml
+C:\Users\tomhe\Desktop\Eigen projecten\C#\Clean UI\Clean UI\obj\Debug\MVVM\View\DiscoveryView.baml
+C:\Users\tomhe\Desktop\Eigen projecten\C#\Clean UI\Clean UI\obj\Debug\MVVM\View\HomeView.baml
+C:\Users\tomhe\Desktop\Eigen projecten\C#\Clean UI\Clean UI\obj\Debug\Clean UI.g.resources
+C:\Users\tomhe\Desktop\Eigen projecten\C#\Clean UI\Clean UI\obj\Debug\Clean_UI.Properties.Resources.resources
+C:\Users\tomhe\Desktop\Eigen projecten\C#\Clean UI\Clean UI\obj\Debug\Clean UI.csproj.GenerateResource.cache
+C:\Users\tomhe\Desktop\Eigen projecten\C#\Clean UI\Clean UI\obj\Debug\Clean UI.csproj.CoreCompileInputs.cache
+C:\Users\tomhe\Desktop\Eigen projecten\C#\Clean UI\Clean UI\obj\Debug\Clean UI.exe
+C:\Users\tomhe\Desktop\Eigen projecten\C#\Clean UI\Clean UI\obj\Debug\Clean UI.pdb
+C:\Users\tomhe\Desktop\Eigen projecten\C#\Clean UI\Clean UI\obj\Debug\MVVM\View\ProductenView.g.cs
+C:\Users\tomhe\Desktop\Eigen projecten\C#\Clean UI\Clean UI\obj\Debug\MVVM\View\ProductenView.baml
+C:\Users\tomhe\Desktop\Eigen projecten\C#\Clean UI\Clean UI\obj\Debug\MVVM\View\KlantenView.g.cs
+C:\Users\tomhe\Desktop\Eigen projecten\C#\Clean UI\Clean UI\obj\Debug\MVVM\View\KlantenView.baml
